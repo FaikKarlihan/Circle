@@ -1,0 +1,14 @@
+C:\Users\Toshiba\Documents\Sites\Circle\bin\Debug\net8.0\Circle.exe
+C:\Users\Toshiba\Documents\Sites\Circle\bin\Debug\net8.0\Circle.deps.json
+C:\Users\Toshiba\Documents\Sites\Circle\bin\Debug\net8.0\Circle.runtimeconfig.json
+C:\Users\Toshiba\Documents\Sites\Circle\bin\Debug\net8.0\Circle.dll
+C:\Users\Toshiba\Documents\Sites\Circle\bin\Debug\net8.0\Circle.pdb
+C:\Users\Toshiba\Documents\Sites\Circle\obj\Debug\net8.0\Circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\Documents\Sites\Circle\obj\Debug\net8.0\Circle.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Documents\Sites\Circle\obj\Debug\net8.0\Circle.AssemblyInfo.cs
+C:\Users\Toshiba\Documents\Sites\Circle\obj\Debug\net8.0\Circle.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Documents\Sites\Circle\obj\Debug\net8.0\Circle.dll
+C:\Users\Toshiba\Documents\Sites\Circle\obj\Debug\net8.0\refint\Circle.dll
+C:\Users\Toshiba\Documents\Sites\Circle\obj\Debug\net8.0\Circle.pdb
+C:\Users\Toshiba\Documents\Sites\Circle\obj\Debug\net8.0\Circle.genruntimeconfig.cache
+C:\Users\Toshiba\Documents\Sites\Circle\obj\Debug\net8.0\ref\Circle.dll
